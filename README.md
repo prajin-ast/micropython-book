@@ -19,5 +19,7 @@ https://codewith.mu/en/download
 - windows 64bit https://github.com/mu-editor/mu/releases/download/1.0.3/mu-editor_1.0.3_win64.exe
 - windows 32bit https://github.com/mu-editor/mu/releases/download/1.0.3/mu-editor_1.0.3_win32.exe 
 3.	uPyCraft ใช้ในการ BurnFirmware ดูบทที่ 20 หัวข้อ 20.2
-https://github.com/DFRobot/uPyCraft/blob/master/uPyCraft_V1.0.exe 
-ใช้เบิร์นเฟิร์มแวร์และใช้เขียนโค้ดได้เช่นเดียวกัน
+- https://github.com/DFRobot/uPyCraft/blob/master/uPyCraft_V1.0.exe 
+- ใช้เบิร์นเฟิร์มแวร์และใช้เขียนโค้ดได้เช่นเดียวกัน
+4.  Thonny IDE https://thonny.org/
+- ใช้ในการ BurnFirmware และเขียนโค้ดได้ ดูได้จากเอกสาร การอัพโหลดเฟิร์มแวร์ MicroPython ด้วย Thonny IDE
