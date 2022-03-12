@@ -18,8 +18,10 @@ Link ดาวน์โหลดไฟล์ต่าง ๆ สำหรับ�
 https://codewith.mu/en/download
 - windows 64bit https://github.com/mu-editor/mu/releases/download/1.0.3/mu-editor_1.0.3_win64.exe
 - windows 32bit https://github.com/mu-editor/mu/releases/download/1.0.3/mu-editor_1.0.3_win32.exe 
-3.	uPyCraft ใช้ในการ BurnFirmware ดูบทที่ 20 หัวข้อ 20.2
+3. esptool.py (ใช้เฉพาะไฟล์นี้เท่านั้น)
+- ดาวน์โหลดได้ที่ https://github.com/espressif/esptool 
+4.	uPyCraft ใช้ในการ BurnFirmware ดูบทที่ 20 หัวข้อ 20.2
 - https://github.com/DFRobot/uPyCraft/blob/master/uPyCraft_V1.0.exe 
 - ใช้เบิร์นเฟิร์มแวร์และใช้เขียนโค้ดได้เช่นเดียวกัน
-4.  Thonny IDE https://thonny.org/
+5.  Thonny IDE https://thonny.org/
 - ใช้ในการ BurnFirmware และเขียนโค้ดได้ ดูได้จากเอกสาร การอัพโหลดเฟิร์มแวร์ MicroPython ด้วย Thonny IDE
